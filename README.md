@@ -256,7 +256,7 @@ AFNetworking is available under the MIT license. See the LICENSE file for more i
     return fmaxf(70.0f, sizeToFit.height + 45.0f);
 }
 
-#pragma mark - UIView
+//#pragma mark - UIView
 
 //在自己定制的视图中重载这个方法，用来调整子视图的尺寸和位置。
 - (void)layoutSubviews {
